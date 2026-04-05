@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Mohammed Ghallab
 ### **Strategic Full Stack Developer | Software Architecture Expert**
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/161932957?v=4" alt="Mohammed's GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedGhallab&show_icons=true&theme=tokyonight)
 
 ---
 
