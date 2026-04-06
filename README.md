@@ -61,7 +61,7 @@ I am a **Full Stack Developer** with over **3 years of experience** in building 
   <a href="mailto:mohammedfahmiyghallab@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-ghallab">
+  <a href="https://www.linkedin.com/in/mohammedfahmyghallab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mohammedghallab.github.io">
