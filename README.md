@@ -21,7 +21,7 @@ I am a **Full Stack Developer** with over **3 years of experience** in building 
 
 I take pride in contributing to the tools I use every day. My focus is on backend stability, security, and enterprise-grade performance.
 
-* **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot):** * Resolved **Issue [#49952](https://github.com/spring-projects/spring-boot/issues/49952)**:Incorrect default value for **management.httpexchanges.recording.include in configuration metadata**.
+* **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot): ** * Resolved **Issue [#49952](https://github.com/spring-projects/spring-boot/issues/49952)**:Incorrect default value for **management.httpexchanges.recording.include in configuration metadata**.
 
 ---
 
