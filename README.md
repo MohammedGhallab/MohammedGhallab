@@ -1,27 +1,35 @@
 # 👋 Hi, I'm Mohammed Ghallab
 ### **Strategic Full Stack Developer | Open Source Contributor | Software Architecture Expert**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedGhallab&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedGhallab&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=79ffad&icon_color=79ffad" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedGhallab&layout=compact&theme=tokyonight&hide=html,css,blade&hide_border=true&title_color=79ffad" width="41.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedGhallab&theme=tokyonight&hide_border=true&stroke=79ffad&ring=79ffad&fire=79ffad" width="90%" />
+</p>
 
 ---
 
 ### 📖 About Me
 
-I am a **Full Stack Developer** with over **3 years of experience** in building scalable enterprise solutions. My expertise lies in designing high-performance systems and contributing to world-class open-source ecosystems.
+I am a **Full Stack Developer** with **3+ years of professional experience** crafting high-availability enterprise solutions. My focus is on **Software Architecture** and contributing to the global open-source ecosystem.
 
-- 🔭 **Specialization:** Software Architecture (Microservices, DDD, Modular Monoliths).
-- 🌍 **Open Source:** Active contributor to the **Spring Boot** ecosystem.
-- ⚡ **Impact:** Resolved core issues in mainstream frameworks and optimized high-traffic platforms by **40%**.
-- 🛠️ **Workflow:** Advanced experience with **Spring AI**, **Linux-based environments**, and **Antigravity**.
-- 📍 **Location:** Based in Sana'a, Yemen.
+- 🏗️ **Architectural Focus:** Microservices, Domain-Driven Design (DDD), and Modular Monoliths.
+- 🧪 **Cybersecurity:** Experienced in NoSQL injection testing and secure coding practices.
+- ⚡ **Performance:** Expert in gRPC, Envoy Proxy, and high-performance backend communication.
+- 🛠️ **Environment:** Advanced workflow using **Project IDX**, **Linux**, and **Spring AI**.
 
 ---
 
-### 🌟 Open Source Contributions
+### 🌟 Open Source Impact
 
-I take pride in contributing to the tools I use every day. My focus is on backend stability, security, and enterprise-grade performance.
+> *"Contributing to the core of modern software."*
 
 * **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot):**  Resolved **Issue [#49952](https://github.com/spring-projects/spring-boot/issues/49952)**: **management.httpexchanges.recording.include in configuration metadata**.
+* **[VulnerableApp](https://github.com/SasanLabs/VulnerableApp):** * 🛡️ Contributed NoSQL vulnerability patches and security enhancements.
+
 ---
 
 ### 🛠 Tech Stack
@@ -46,35 +54,30 @@ I take pride in contributing to the tools I use every day. My focus is on backen
 
 ---
 
-### 🚀 Featured Projects
+### 📁 Featured Projects
 
+* **📅 Schedula:** An enterprise-grade appointment booking system using **Clean Architecture** and **Spring Boot**.
+* **🔄 Real-time Cart Sync:** Advanced multi-platform synchronization using **Laravel 10** and **Redis**.
+* **🌶️ Tikka Spices:** Full-stack e-commerce ecosystem with a **Flutter** mobile app and **Laravel** admin dashboard.
+* **🛡️ SecureGate:** Implementation of secure gRPC communication layers with custom interceptors.
 * **Social Media Management Platform:** A high-performance backend using **Spring Boot**, **MongoDB**, and **gRPC** for low-latency communication.
-* **Schedula:** An enterprise SaaS appointment scheduling system built with **Spring Boot** and **PostgreSQL**.
-* **Tikka Spices:** A complete restaurant ecosystem featuring a **Flutter** mobile app and **Laravel** backend.
-* **Cart Sync System:** Advanced synchronization between Laravel 10 and Redis for multi-platform e-commerce environments.
 
 ---
 
-### 📊 Project Insights
+### 📊 Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedGhallab&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedGhallab&theme=tokyonight" width="90%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-<div align="left">
+<p align="left">
   <a href="mailto:mohammedfahmiyghallab@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammedfahmyghallab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
----
-
-<p align="center">
-  <i>"Contributing to the core of modern software, one pull request at a time."</i>
 </p>
