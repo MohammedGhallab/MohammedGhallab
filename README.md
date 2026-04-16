@@ -27,8 +27,9 @@ I am a **Full Stack Developer** with **3+ years of professional experience** cra
 
 > *"Contributing to the core of modern software."*
 
-* **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot):**  Resolved **Issue [#49952](https://github.com/spring-projects/spring-boot/issues/49952)**: **management.httpexchanges.recording.include in configuration metadata**.
-* **[VulnerableApp](https://github.com/SasanLabs/VulnerableApp):** * 🛡️ Contributed NoSQL vulnerability patches and security enhancements.
+* **[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot):** 🛠 Resolved **Issue [#49952](https://github.com/spring-projects/spring-boot/issues/49952)**: **management.httpexchanges.recording.include in configuration metadata**.
+* **[VulnerableApp](https://github.com/SasanLabs/VulnerableApp):** 🛡️ Contributed NoSQL vulnerability patches and security enhancements [#497](https://github.com/SasanLabs/VulnerableApp/issues/497).
+* **[PMD-jPinpoint-rules](https://github.com/jborgers/PMD-jPinpoint-rules):** 🛡️Fixing issue 693: Avoid simple caches [#693](https://github.com/jborgers/PMD-jPinpoint-rules/issues/693) .
 
 ---
 
